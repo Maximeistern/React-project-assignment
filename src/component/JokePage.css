@@ -1,0 +1,9 @@
+.joke-button {
+  width: 100%;
+  padding: 20px;
+  font-size: 50px;
+  background-color: coral;
+}
+.joke-text {
+  color: darkgoldenrod;
+}
