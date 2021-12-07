@@ -1,0 +1,22 @@
+.login-Div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  background-color: #5a3908;
+  color: #ffa800;
+  margin: 20px 20px;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.781);
+}
+
+.login-button {
+  width: 50rem;
+  padding: 20px;
+  font-size: 20px;
+  background-color: #1f1301;
+  border-color: #ffa800;
+  color: #ffa800;
+  border-radius: 15px;
+  font-weight: bold;
+}

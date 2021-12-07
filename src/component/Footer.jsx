@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import "./Footer.css";
 
 const initialFormState = {
@@ -43,7 +43,7 @@ function Footer() {
   }
   return (
     <div className="footer-div">
-      <div>
+      <div className="footer-text">
         Please be a part of our comunity and register for our newsletter here to
         the right!
       </div>

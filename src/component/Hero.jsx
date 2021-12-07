@@ -10,20 +10,19 @@ const Hero = () => {
       </div>
       <div>
         <p>
-          Mellan 1968 och 1974 var Norris obesegrad mellanviktsmästare i karate.
-          Norris var den förste vite/västerländske person att få graden 8:e dan
-          i taekwando. Sitt stora genombrott fick han när han spelade skurken i
-          Bruce Lee-filmen Way of the Dragon (1972). Bland senare filmer kan
-          nämnas Saknad i strid och Styrka Delta Force. Under 1980-talet var han
-          bolaget Cannon Films största stjärna. Han är också känd för sin
-          medverkan i TV-serien Walker, Texas Ranger där han spelar Cordell
-          "Cord" Walker, Texas Ranger. Han har även producerat filmen med samma
-          namn. Norris har skrivit flera böcker, bland annat självbiografin
-          Against All Odds (2004). Han har också grundat en egen kampsportgren,
-          Chun Kuk Do. Norris gör även reklam för Total Gym som är ett
-          träningsverktyg som säljs av TV-Shop. Han gör också reklam för World
-          Of Warcraft. Webbplatsen Rotten Tomatoes utnämnde 2011 Chuck Norris
-          till ”den sämsta manliga skådespelaren genom tiderna”.
+          Carlos Ray "Chuck" Norris (born March 10, 1940) is an American martial
+          artist, actor, film producer, and screenwriter. He is a black belt in
+          Tang Soo Do, Brazilian jiu jitsu and judo. After serving in the United
+          States Air Force, Norris won many martial arts championships and later
+          founded his own discipline Chun Kuk Do. Shortly after, in Hollywood,
+          Norris trained celebrities in martial arts. Norris went on to appear
+          in a minor role in the spy film The Wrecking Crew (1969). Friend and
+          fellow martial artist Bruce Lee invited him to play one of the main
+          villains in Way of the Dragon (1972). While Norris continued acting,
+          friend and student Steve McQueen suggested him to take it seriously.
+          Norris took the starring role in the action film Breaker! Breaker!
+          (1977), which turned a profit. His second lead Good Guys Wear Black
+          (1978) became a hit, and he soon became a popular action film star.
         </p>
       </div>
     </div>
