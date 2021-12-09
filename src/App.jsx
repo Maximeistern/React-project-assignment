@@ -1,10 +1,10 @@
 import "./App.css";
 import { useState, createContext } from "react";
 import { Route, Routes } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./component/pages/Home";
 import Layout from "./component/Layout/Layout";
-import Login from "./pages/Login";
-import JokePage from "./pages/JokePage";
+import Login from "./component/pages/LoginPage";
+import JokePage from "./component/pages/JokePage";
 
 export const LoggedIn = createContext();
 

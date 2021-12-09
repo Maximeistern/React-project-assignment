@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { LoggedIn } from "../App";
+import { LoggedIn } from "../../App";
 import "./InfoSection.css";
 
 export default function InfoSection() {

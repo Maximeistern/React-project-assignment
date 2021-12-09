@@ -1,10 +1,10 @@
 import React from "react";
 import axios from "axios";
-import Chuckie from "../component/Pictures/Chuckie.png";
+import Chuckie from "../Pictures/Chuckie.png";
 import { useState, useEffect } from "react";
-import "./JokePage.css";
+import "./Joke.css";
 
-const JokePage = () => {
+const Joke = () => {
   const [jokes, setJokes] = useState();
 
   useEffect(() => {
@@ -19,7 +19,6 @@ const JokePage = () => {
     try {
       const response = await axios.get(url);
       setJokes(response.data.value);
-      console.log(response.data.value);
     } catch (error) {
       console.error(error);
     }
@@ -42,4 +41,4 @@ const JokePage = () => {
   );
 };
 
-export default JokePage;
+export default Joke;

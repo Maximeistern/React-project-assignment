@@ -1,5 +1,5 @@
-import InfoSection from "../component/InfoSection";
-import Hero from "../component/Hero";
+import InfoSection from "../sections/InfoSection";
+import Hero from "../sections/Hero";
 
 function Home() {
   return (

@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { LoggedIn } from "../App";
+import { LoggedIn } from "../../App";
 import { Link } from "react-router-dom";
 import "./Login.css";
 

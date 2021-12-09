@@ -2,7 +2,7 @@ import React from "react";
 import { useContext } from "react";
 import { Link } from "react-router-dom";
 import "./Topnav.css";
-import { LoggedIn } from "../App";
+import { LoggedIn } from "../../App";
 
 const Topnav = () => {
   const { isLoggedIn } = useContext(LoggedIn);

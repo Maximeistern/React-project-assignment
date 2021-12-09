@@ -1,5 +1,5 @@
-import Footer from "../Footer";
-import Topnav from "../Topnav";
+import Footer from "../sections/Footer";
+import Topnav from "../sections/Topnav";
 import "./Layout.css";
 
 export default function Layout({ children }) {
